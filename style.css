@@ -1,5 +1,5 @@
 body {
-  background: #6565a5;
+  background: #6767b2;
   font-family: arial, sans-serif;
 }
 
@@ -13,7 +13,7 @@ header {
 }
 
 .weather-app {
-  border: 1px solid #fff4d7;
+  border: 1px solid #397ece;
   padding: 15px;
   margin: 20px auto;
   border-radius: 10px;
